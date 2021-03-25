@@ -127,6 +127,10 @@ h1 {
     font-size: 30px;
 }
 
+.index-h1 {
+    padding: 20px;
+}
+
 h2 {
     font-size: 23px;
 }
